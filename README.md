@@ -2,6 +2,6 @@
 
 ## gdhody-gatesla-a1
 ### Seach 
-Route Finding
-Team Groups Formation
+Route Finding,
+Team Groups Formation,
 16Puzzle
