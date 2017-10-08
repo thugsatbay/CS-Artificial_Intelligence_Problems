@@ -1,4 +1,4 @@
-# ArtificailIntelligence_Assignments - CS-551
+# Artificail_Intelligence_Problems
 
 ## gdhody-gatesla-a1
 ### Seach 
