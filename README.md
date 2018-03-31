@@ -1,4 +1,4 @@
-# Artificail_Intelligence_Problems
+# Artificial_Intelligence_Problems
 
 ## n-queen.py
 Nqueen solver for given board <br/>
